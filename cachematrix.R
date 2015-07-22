@@ -1,4 +1,4 @@
-## These functions create a matrix object, and cache its inverse of that matrix
+## These functions create a matrix object, and cache the inverse of that matrix
 
 ## This function creates the matrix object, which contains functions such as
 ## setting and getting the matrix and its inverse.
